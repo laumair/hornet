@@ -12,14 +12,11 @@ require (
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
-	github.com/eclipse/paho.mqtt.golang v1.2.1-0.20200506085104-5ee50844ed64
-	github.com/fhmq/hmq v0.0.0-20200826092422-b8bacb4c3d2c
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gin-contrib/gzip v0.0.2
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-echarts/go-echarts v1.0.0
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/go-zeromq/zmq4 v0.10.0
 	github.com/gobuffalo/packr/v2 v2.8.0
 	github.com/google/go-github v17.0.0+incompatible // indirect
 	github.com/google/go-querystring v1.0.0 // indirect
@@ -30,7 +27,6 @@ require (
 	github.com/kr/pretty v0.2.1 // indirect
 	github.com/labstack/echo/v4 v4.1.17
 	github.com/labstack/gommon v0.3.0
-	github.com/luca-moser/iota v0.0.0-20200907161409-c2ea8722f631
 	github.com/mitchellh/mapstructure v1.3.3
 	github.com/mr-tron/base58 v1.2.0
 	github.com/muxxer/iota.go v1.0.0-beta.11.0.20200916213055-851daf436c69
